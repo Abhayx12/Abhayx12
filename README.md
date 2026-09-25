@@ -3,7 +3,7 @@
 
 - 🔭 I’m in my final year in B.Tech (Cse) course in UPES, Dehradun.
 - 🌱 I,m diving deep into data structures, algorithms, and software development to build efficient and scalable solutions. My curiosity drives me to experiment with new technologies and contribute to open-source projects, where I can enhance my skills and give back to the tech community.
-- I have a good hold in programming languages like C, C++,Java and Python, and I'm also skilled in SQL, MongoDB for database management. 🚀
+- I have a good hold in programming languages like C, Java and Python, and I'm also skilled in SQL, MongoDB for database management. 🚀
 - 💬My hobbies are learning new skills, playing football and explore more.....
 
 - ⚡ Fun fact about me :   *I might be taller than you*
